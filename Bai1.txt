@@ -1,0 +1,6 @@
+1. Mong muốn và định hướng sau khi học xong môn lập trình thiết bị di động
+- Nắm vững các kỹ năng lập trình ứng dụng di động.
+- Hiểu được quy trình phát triển ứng dụng từ thiết kế, lập trình, kiểm thử đến triển khai.
+- Có thể xây dựng một ứng dụng di động hoàn chỉnh, có thể áp dụng vào thực tế hoặc làm dự án cá nhân.
+- Tìm được cơ hội thực tập hoặc làm việc trong các công ty công nghệ có liên quan đến phát triển ứng dụng di động.
+- ...

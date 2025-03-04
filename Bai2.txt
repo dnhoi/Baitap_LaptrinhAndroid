@@ -1,0 +1,13 @@
+2. Theo em, trong tương lai lập trình di động sẽ tiếp tục phát triển trong 10 năm tới vì:
+- Các thiết bị di động và tablet ngày càng phổ biến, với cấu hình mạnh hơn thay đổi theo từng năm nên kéo theo nhu cầu ứng dụng di động ngày càng tăng.
+- Sự phát triển của nhiều công nghệ mới như: AI, AR/VR, 5G, IoT đang thay đổi cách con người tương tác với thiết bị di động, mở ra nhiều cơ hội cho lập trình viên.
+- Nhiều doanh nghiệp chuyển đổi số, sử dụng ứng dụng di động để tiếp cận khách hàng, đặc biệt trong thương mại điện tử, tài chính và giải trí.
+- Nhu cầu cao về bảo mật dữ liệu cá nhân, thông tin giao dịch trực tuyến của khách hàng ngày càng nhiều và tối ưu hóa được hiệu suất, trải nghiệm người dùng tốt hơn.
+
+
+
+
+
+
+
+
