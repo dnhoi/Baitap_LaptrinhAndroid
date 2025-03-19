@@ -43,7 +43,7 @@ class MainActivity : AppCompatActivity() {
             android.R.layout.simple_list_item_1,
             bookList
         )
-        binding.lvBook.adapter = bookAdapter
+        
 
         // Gán sự kiện
         setupEventListeners()

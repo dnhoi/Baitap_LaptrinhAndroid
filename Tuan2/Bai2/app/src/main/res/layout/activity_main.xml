@@ -78,25 +78,17 @@
         android:textSize="22sp"
         android:textStyle="bold" />
 
-    <ListView
-        android:id="@+id/lvBook"
-        android:layout_width="wrap_content"
-        android:layout_height="329dp"
-        android:layout_marginTop="10dp"
-        android:layout_weight="1"
-        android:paddingLeft="20dp"
-        android:paddingRight="20dp" />
-
-    <EditText
-        android:id="@+id/edtNameBook"
+    <CheckBox
+        android:id="@+id/checkBox2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#ffffff"
-        android:inputType="text"
-        android:paddingLeft="20dp"
-        android:paddingRight="20dp"
-        android:textSize="20sp"
-        android:textStyle="bold" />
+        android:text="Sách 1" />
+
+    <CheckBox
+        android:id="@+id/checkBox3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Che" />
 
     <Button
         android:id="@+id/btnAddBook"
@@ -134,6 +126,7 @@
                 android:layout_height="wrap_content"
                 android:text="Quản lý"
                 android:textSize="12sp" />
+
         </LinearLayout>
 
         <LinearLayout
