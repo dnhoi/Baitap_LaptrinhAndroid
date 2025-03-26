@@ -24,10 +24,10 @@ import kotlinx.coroutines.delay
 @Composable
 fun page1(navController: NavHostController)
 {
-    LaunchedEffect(Unit) {
-        delay(10000) // Chờ 10 giây
-        navController.navigate("page2")
-    }
+//    LaunchedEffect(Unit) {
+//        delay(10000) // Chờ 10 giây
+//        navController.navigate("page2")
+//    }
     Column(
         modifier = Modifier
             .fillMaxSize()
