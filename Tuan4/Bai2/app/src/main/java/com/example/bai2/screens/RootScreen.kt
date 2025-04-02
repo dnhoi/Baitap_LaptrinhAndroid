@@ -45,7 +45,7 @@ fun RootScreen(navController: NavController) {
             text = "is a framework that simplifies the implementation of navigation between different Ul components (activities, fragments, or composables) in an app",
             fontSize = 14.sp ,
             textAlign = TextAlign.Center,
-            modifier = Modifier.fillMaxWidth(0.7f) // Giới hạn độ rộng
+            modifier = Modifier.fillMaxWidth(0.8f) // Giới hạn độ rộng
         )
         Spacer(modifier = Modifier.height(25.dp))
         Button(
