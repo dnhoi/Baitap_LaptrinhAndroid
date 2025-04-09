@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622131205371",
+    "project_id": "project-android22",
+    "storage_bucket": "project-android22.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622131205371:android:1e160a0b5d09bdacd58c5e",
+        "android_client_info": {
+          "package_name": "com.example.mymemory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu5HKgaETZIo5LDoZCKgkDUviBzhdEL6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
