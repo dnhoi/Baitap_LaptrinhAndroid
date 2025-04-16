@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.bai1"
+    namespace = "com.example.thuchanh1"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.bai1"
+        applicationId = "com.example.thuchanh1"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
@@ -40,7 +40,8 @@ android {
 }
 
 dependencies {
-
+    implementation ("androidx.datastore:datastore-preferences:1.0.0")
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2")
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
@@ -56,13 +57,4 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
-
-    implementation("io.coil-kt:coil-compose:2.0.0")
-    implementation(platform("androidx.compose:compose-bom:2024.03.00"))// Jetpack Compose BOM (Quản lý phiên bản tự động)
-    implementation("androidx.compose.ui:ui")    // Thư viện UI của Compose
-    implementation("androidx.compose.ui:ui-tooling-preview")
-    implementation("androidx.compose.material3:material3")    // Material 3 Components
-    implementation("androidx.activity:activity-compose:1.9.0")    // Yêu cầu để sử dụng Jetpack Compose với Activity
-    implementation("androidx.navigation:navigation-compose:2.7.7")
-    implementation("androidx.compose.compiler:compiler:1.5.11")
 }
